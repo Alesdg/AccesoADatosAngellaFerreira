@@ -10,7 +10,6 @@ public class Libro {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    // Prueba para commit
     @Column(name = "titulo", nullable = false, length = 200)
     private String titulo;
 
