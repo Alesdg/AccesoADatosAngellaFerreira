@@ -1,0 +1,31 @@
+titulo;autor;isbn;anio_publicacion;genero;disponible
+Cien años de soledad;Gabriel García Márquez;978-0307474728;1967;Ficción;true
+1984;George Orwell;978-0451524935;1949;Distopía;true
+El principito;Antoine de Saint-Exupéry;978-0156012195;1943;Infantil;false
+Don Quijote de la Mancha;Miguel de Cervantes;978-8420412146;1605;Clásico;true
+Orgullo y prejuicio;Jane Austen;978-0141439518;1813;Romance;true
+El señor de los anillos;J.R.R. Tolkien;978-0544003415;1954;Fantasía;false
+Crónica de una muerte anunciada;Gabriel García Márquez;978-0307387370;1981;Ficción;true
+Un mundo feliz;Aldous Huxley;978-0060850524;1932;Distopía;true
+Harry Potter y la piedra filosofal;J.K. Rowling;978-8498383447;1997;Fantasía;true
+El código Da Vinci;Dan Brown;978-0307474278;2003;Thriller;false
+Los juegos del hambre;Suzanne Collins;978-0439023481;2008;Distopía;true
+El alquimista;Paulo Coelho;978-0062315007;1988;Ficción;true
+Matar un ruiseñor;Harper Lee;978-0061120084;1960;Clásico;true
+El hobbit;J.R.R. Tolkien;978-0547928227;1937;Fantasía;true
+La sombra del viento;Carlos Ruiz Zafón;978-8408163251;2001;Misterio;false
+Fahrenheit 451;Ray Bradbury;978-1451673319;1953;Distopía;true
+La metamorfosis;Franz Kafka;978-8420656878;1915;Clásico;true
+El gran Gatsby;F. Scott Fitzgerald;978-0743273565;1925;Clásico;true
+La casa de los espíritus;Isabel Allende;978-1501117015;1982;Ficción;true
+Rebelión en la granja;George Orwell;978-0452284241;1945;Sátira;true
+El amor en los tipos del cólera;Gabriel García Márquez;978-0307389732;1985;Romance;false
+Sapiens: De animales a dioses;Yuval Noah Harari;978-8499926223;2011;Ensayo;true
+El cuento de la criada;Margaret Atwood;978-0385490818;1985;Distopía;false
+Las aventuras de Sherlock Holmes;Arthur Conan Doyle;978-0199536948;1892;Misterio;true
+Dune;Frank Herbert;978-0441172719;1965;Ciencia Ficción;true
+El retrato de Dorian Gray;Oscar Wilde;978-0141439570;1890;Clásico;true
+Los pilares de la Tierra;Ken Follett;978-0451166890;1989;Histórica;false
+La insoportable levedad del ser;Milan Kundera;978-0061148521;1984;Ficción;true
+Crimen y castigo;Fiódor Dostoyevski;978-0143058144;1866;Clásico;true
+El nombre de la rosa;Umberto Eco;978-0156001311;1980;Misterio;true

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+
+        <!-- ============================================================ -->
+        <!-- CONFIGURACIÓN PARA PostgreSQL                                 -->
+        <!-- Cambia username, password y el nombre de la BD si es distinto -->
+        <!-- ============================================================ -->
+        <property name="hibernate.connection.driver_class">org.postgresql.Driver</property>
+        <property name="hibernate.connection.url">jdbc:postgresql://localhost:5432/tienda_db</property>
+        <property name="hibernate.connection.username">postgres</property>
+        <property name="hibernate.connection.password">password</property>
+        <property name="hibernate.dialect">org.hibernate.dialect.PostgreSQLDialect</property>
+
+        <!-- Mostrar el SQL generado en la consola (útil para depurar) -->
+        <property name="hibernate.show_sql">true</property>
+        <property name="hibernate.format_sql">true</property>
+
+        <!-- update = crea la tabla si no existe, la actualiza si cambia -->
+        <property name="hibernate.hbm2ddl.auto">update</property>
+
+        <!-- Entidad que mapea la tabla de la base de datos -->
+        <mapping class="com.biblioteca.entity.Libro"/>
+
+    </session-factory>
+</hibernate-configuration>
